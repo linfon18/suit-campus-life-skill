@@ -1,0 +1,67 @@
+{
+  "notice": "Official entrypoints for live verification, not a stored current-policy dataset.",
+  "exams": {
+    "cet": {
+      "label": "全国大学英语四、六级考试",
+      "urls": ["https://cet.neea.edu.cn/html1/category/16093/1124-1.htm"],
+      "fallback_urls": ["https://cet.neea.edu.cn/"]
+    },
+    "ncre": {
+      "label": "全国计算机等级考试",
+      "urls": ["https://ncre.neea.edu.cn/"]
+    },
+    "ntce": {
+      "label": "中小学教师资格考试",
+      "urls": ["https://ntce.neea.edu.cn/", "https://eea.gd.gov.cn/"]
+    },
+    "accounting": {
+      "label": "会计专业技术资格考试",
+      "urls": ["https://kjs.mof.gov.cn/", "https://ausm.mof.gov.cn/index/"]
+    },
+    "ruankao": {
+      "label": "计算机技术与软件专业技术资格（水平）考试",
+      "urls": ["https://www.ruankao.org.cn/"]
+    },
+    "huawei": {
+      "label": "华为人才在线认证入口",
+      "urls": ["https://e.huawei.com/cn/talent/portal/"],
+      "reader_note": "2026-11-14 returned a JavaScript shell; an environment browser may be required."
+    },
+    "huawei-cloud": {
+      "label": "华为云学堂与认证",
+      "urls": ["https://edu.huaweicloud.com/"]
+    },
+    "tencent-cloud": {
+      "label": "腾讯云培训认证",
+      "urls": ["https://cloud.tencent.com/edu"]
+    },
+    "aws": {
+      "label": "AWS Certification",
+      "urls": ["https://aws.amazon.com/cn/certification/"]
+    },
+    "school": {
+      "label": "深圳信息职业技术大学主站通知公告",
+      "urls": ["https://www.suit-sz.edu.cn/index/tzgg.htm"]
+    },
+    "academic": {
+      "label": "主站公开通知中的教务线索，需核实正文相关性；不覆盖校内通知",
+      "urls": ["https://www.suit-sz.edu.cn/index/tzgg.htm"]
+    }
+  },
+  "allowed_hosts": [
+    "cet.neea.edu.cn",
+    "cet-bm.neea.edu.cn",
+    "ncre.neea.edu.cn",
+    "ntce.neea.edu.cn",
+    "www.neea.edu.cn",
+    "eea.gd.gov.cn",
+    "kjs.mof.gov.cn",
+    "ausm.mof.gov.cn",
+    "www.ruankao.org.cn",
+    "e.huawei.com",
+    "edu.huaweicloud.com",
+    "cloud.tencent.com",
+    "aws.amazon.com",
+    "www.suit-sz.edu.cn"
+  ]
+}
