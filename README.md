@@ -100,6 +100,13 @@ suit-campus-life-skill/
 - 课表先核对再转换。WakeUp等应用的导入格式需按对应说明核实，不预先承诺ICS可直接导入。
 - 本项目不代表学校官方出品或背书。
 
+## 按需访问的外部学习资料
+
+- [0609x/CET46-Resources](https://github.com/0609x/CET46-Resources)：用于按需定位学习材料。
+- [Liuxiangjian-ai/cet-skill](https://github.com/Liuxiangjian-ai/cet-skill)：用于按需查找题型训练与评价参考。
+
+资料仅在任务需要时访问，整套题库与资料正文不随本技能包分发。政策与报名要求以适用的官方公告为准。
+
 ## 📄 许可证
 
 本项目采用[Mozilla Public License 2.0](LICENSE)，许可证标识为`MPL-2.0`。
